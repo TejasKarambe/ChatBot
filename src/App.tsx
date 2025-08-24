@@ -21,7 +21,7 @@ function App() {
         {/* Header - sticky */}
         <div className="bg-blue-200 text-gray-800 text-lg font-semibold p-4 rounded-t-2xl flex items-center justify-center gap-2 sticky top-0 z-10">
           <LuBot />
-          React + OpenAI Chatbot
+          React + AI Chatbot
         </div>
 
         {/* Chat Area - scrollable */}
